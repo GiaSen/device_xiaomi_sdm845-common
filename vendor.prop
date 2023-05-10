@@ -159,6 +159,9 @@ ro.vendor.extension_library=libqti-perfd-client.so
 # Radio
 persist.vendor.radio.enableadvancedscan=false
 
+# Rendering
+ro.hwui.render_ahead=20
+
 # SoC
 ro.soc.manufacturer=Qualcomm
 ro.soc.model=SDM845
